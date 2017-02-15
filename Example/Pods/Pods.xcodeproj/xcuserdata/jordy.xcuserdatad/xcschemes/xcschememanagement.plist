@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>BMPlayer.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>NVActivityIndicatorView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-BMPlayer_Example.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SnapKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SwipeBack.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1310D747B194FC91D92FC7558319FD38</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>38EFBA79A066DACAB92763D693296D37</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5A260845D40064334C5B20B9806F6C16</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D0A3BAE35983B2F8C9D3A9CE3A2890D2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F579CD7BFE81DA29C87550B91308DBBC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
